@@ -6,8 +6,8 @@ Criador de conteudo e atualmente estudando python e lua ☾ <br><br>
 <br>
 <div>
   <a href="https://github.com/SamDeOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamDeOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDeOliveira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api?username=SamDeOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDeOliveira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!---
