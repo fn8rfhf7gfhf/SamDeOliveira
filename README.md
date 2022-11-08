@@ -1,6 +1,7 @@
 Oii! eu me chamo Sam e tenho 21 anos <br>
 Sou estudante de segurança da informação, dev front end, desiner <br>
-e atualmente estou estudando python e lua ☾ <br>
+e fui Pentester autonômo por 6 anos <br>
+atualmente estudando python e lua ☾ <br>
 -> email de contato: samdeoliveira@protonmail.com <br>
 -> meus certificados: https://drive.google.com/drive/u/1/folders/1VaX81isOgJCSyWpA-RI_qjnLpInvSt1q
 
