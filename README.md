@@ -8,7 +8,7 @@ Criador de conteudo e atualmente estudando python e lua ☾ <br><br>
   <a href="https://github.com/SamDeOliveira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamDeOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDeOliveira&layout=compact&langs_count=7&theme=radical"/> <br>
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@drakendolinux" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 <!---
