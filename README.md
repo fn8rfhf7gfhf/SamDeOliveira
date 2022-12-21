@@ -5,7 +5,7 @@ Movido pela curiosidade e intuição, motivado a sempre aprender mais... <br><br
 -> email de contato: samdeoliveira@protonmail.com <br>
 -> meus certificados: https://drive.google.com/drive/u/1/folders/1VaX81isOgJCSyWpA-RI_qjnLpInvSt1q
 <br><br>
-<div>
+<div align="center">
   <a href="https://github.com/SamDeOliveira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamDeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDeOliveira&layout=compact&langs_count=7&theme=tokyonight"/> <br>
