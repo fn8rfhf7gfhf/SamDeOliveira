@@ -1,7 +1,7 @@
 <h4> Oii! eu me chamo Sam e tenho 21 anos </h4>
 𝗦𝗼𝘂 𝗱𝗲𝘃 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, 𝗗𝗲𝘀𝗶𝗻𝗲𝗿, 𝗲𝘀𝘁𝘂𝗱𝗮𝗻𝘁𝗲 𝗱𝗲 𝘀𝗲𝗴𝘂𝗿𝗮𝗻𝗰̧𝗮 𝗱𝗮 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼<br>
-Criador de conteudo e atualmente estudando python e javascript <br><br>
-𝗔𝗷𝘂𝗱𝗼 𝗲𝗺𝗽𝗿𝗲𝘀𝗮𝘀 𝗲 𝗼𝗿𝗴𝗮̃𝗼𝘀 𝗴𝗼𝘃𝗲𝗿𝗻𝗮𝗺𝗲𝗻𝘁𝗮𝗶𝘀 𝗮 𝗰𝗼𝗿𝗿𝗶𝗴𝗶𝗿𝗲𝗺 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀<br>
+Criador de conteudo e atualmente estudando python e javascript. <br><br>
+𝗔𝗷𝘂𝗱𝗼 𝗲𝗺𝗽𝗿𝗲𝘀𝗮𝘀 𝗲 𝗼𝗿𝗴𝗮̃𝗼𝘀 𝗴𝗼𝘃𝗲𝗿𝗻𝗮𝗺𝗲𝗻𝘁𝗮𝗶𝘀 𝗰𝗼𝗿𝗿𝗶𝗴𝗶𝗿𝗲𝗺 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀<br>
 Movido pela curiosidade e intuição, motivado a sempre aprender mais... <br><br>
 -> email de contato: samdeoliveira@protonmail.com <br>
 -> meus certificados: https://drive.google.com/drive/u/1/folders/1VaX81isOgJCSyWpA-RI_qjnLpInvSt1q
