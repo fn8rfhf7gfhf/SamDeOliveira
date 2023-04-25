@@ -2,7 +2,7 @@
 𝗦𝗼𝘂 𝗗𝗲𝘀𝗶𝗻𝗲𝗿, 𝗱𝗲𝘃 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, 𝗲𝘀𝘁𝘂𝗱𝗮𝗻𝘁𝗲 𝗱𝗲 𝘀𝗲𝗴𝘂𝗿𝗮𝗻𝗰̧𝗮 𝗱𝗮 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼<br>
 Criador de conteudo e atualmente estudando python e javascript. <br><br>
 𝗔𝗷𝘂𝗱𝗼 𝗲𝗺𝗽𝗿𝗲𝘀𝗮𝘀 𝗲 𝗼𝗿𝗴𝗮̃𝗼𝘀 𝗴𝗼𝘃𝗲𝗿𝗻𝗮𝗺𝗲𝗻𝘁𝗮𝗶𝘀 a 𝗰𝗼𝗿𝗿𝗶𝗴𝗶𝗿𝗲𝗺 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀 <br>
-Apaixonado por criar soluções inovadoras e criativas para os meus clientes... ✨ <br><br>
+Entusiasta de Linux e bom com Javascript , CSS , HTML e Python... ✨ <br><br>
 -> email de contato: samdeoliveirademelo@gmail.com <br>
 -> meus certificados: https://drive.google.com/drive/u/1/folders/1VaX81isOgJCSyWpA-RI_qjnLpInvSt1q
 <br><br>
