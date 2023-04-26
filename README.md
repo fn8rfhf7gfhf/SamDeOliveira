@@ -1,9 +1,9 @@
 <img src="https://i.ibb.co/yNHyJVL/zyro-image.jpg" width="250" align="right">
-<h4> Oi! Eu me chamo Sam e tenho 21 anos </h4>
-𝗦𝗼𝘂 𝗗𝗲𝘀𝗶𝗻𝗲𝗿, 𝗱𝗲𝘃 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, 𝗲𝘀𝘁𝘂𝗱𝗮𝗻𝘁𝗲 𝗱𝗲 𝘀𝗲𝗴𝘂𝗿𝗮𝗻𝗰̧𝗮 𝗱𝗮 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼<br>
-Criador de conteudo e Pentester autonômo. <br><br>
+<h4> 𝘖𝘪! 𝘌𝘶 𝘮𝘦 𝘤𝘩𝘢𝘮𝘰 𝘚𝘢𝘮 𝘦 𝘵𝘦𝘯𝘩𝘰 21 𝘢𝘯𝘰𝘴</h4>
+𝑺𝒐𝒖 𝑫𝒆𝒔𝒊𝒏𝒆𝒓, 𝑫𝒆𝒗 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅, 𝑪𝒓𝒊𝒂𝒅𝒐𝒓 𝒅𝒆 𝒄𝒐𝒏𝒕𝒆𝒖́𝒅𝒐 <br>
+𝑬𝘀𝘁𝘂𝗱𝗮𝗻𝘁𝗲 𝗱𝗲 𝘀𝗲𝗴𝘂𝗿𝗮𝗻𝗰̧𝗮 𝗱𝗮 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼 e 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 𝙰𝚞𝚝ô𝚗𝚘𝚖𝚘 👻 <br><br>
 𝗔𝗷𝘂𝗱𝗼 𝗲𝗺𝗽𝗿𝗲𝘀𝗮𝘀 𝗲 𝗼𝗿𝗴𝗮̃𝗼𝘀 𝗴𝗼𝘃𝗲𝗿𝗻𝗮𝗺𝗲𝗻𝘁𝗮𝗶𝘀 a 𝗰𝗼𝗿𝗿𝗶𝗴𝗶𝗿𝗲𝗺 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀 <br>
-Entusiasta de Linux e bom com Javascript , CSS , HTML e Python... ✨ <br><br>
+Eɴᴛᴜsɪᴀsᴛᴀ ᴅᴇ Lɪɴᴜx ᴇ ʙᴏᴍ ᴄᴏᴍ Jᴀᴠᴀsᴄʀɪᴘᴛ , CSS , HTML ᴇ Pʏᴛʜᴏɴ... ✨ <br><br>
 -> email de contato: samdeoliveirademelo@gmail.com <br>
 -> certificados: https://drive.google.com/drive/u/1/folders/1VaX81isOgJCSyWpA-RI_qjnLpInvSt1q
 <br><br>
