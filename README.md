@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ0e__MlTQuNJ-sdY2gYtZPXa0r7CkThUkGhzYZS5rSdAJpqQQrwEEieJGevSmsJFSDB4tft7UorV2XMK9oTOEGt-IJ9fdfPaNTL9jmLCZyccL5lzzXVLLGB4I3efZ6bZ57gAZMF9Nc-LpEEbitVbt1DAx4tAxAgHqjYCGwGCX9AhcdupdkkGEI1fy/s475/TheMaidIHiredRecentlyisMysterious-cr-banner.jpg" width="300" align="right">
+<img src="https://i.ibb.co/Qc6cd0h/logo-glitch.gif" width="250" align="right">
 <h4> Oi! Eu me chamo Sam e tenho 21 anos </h4>
 𝗦𝗼𝘂 𝗗𝗲𝘀𝗶𝗻𝗲𝗿, 𝗱𝗲𝘃 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, 𝗲𝘀𝘁𝘂𝗱𝗮𝗻𝘁𝗲 𝗱𝗲 𝘀𝗲𝗴𝘂𝗿𝗮𝗻𝗰̧𝗮 𝗱𝗮 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼<br>
 Criador de conteudo e Pentester autonômo. <br><br>
