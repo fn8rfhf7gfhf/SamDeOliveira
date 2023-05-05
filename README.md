@@ -5,7 +5,7 @@
 𝗔𝗷𝘂𝗱𝗼 𝗲𝗺𝗽𝗿𝗲𝘀𝗮𝘀 𝗲 𝗼𝗿𝗴𝗮̃𝗼𝘀 𝗴𝗼𝘃𝗲𝗿𝗻𝗮𝗺𝗲𝗻𝘁𝗮𝗶𝘀 a 𝗰𝗼𝗿𝗿𝗶𝗴𝗶𝗿𝗲𝗺 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀 <br>
 Eɴᴛᴜsɪᴀsᴛᴀ ᴅᴇ Lɪɴᴜx ᴇ ʙᴏᴍ ᴄᴏᴍ Jᴀᴠᴀsᴄʀɪᴘᴛ , CSS , HTML ᴇ Pʏᴛʜᴏɴ... ✨ <br><br>
 -> email de contato: samdeoliveirademelo@gmail.com <br>
--> certificados: https://drive.google.com/drive/u/1/folders/1VaX81isOgJCSyWpA-RI_qjnLpInvSt1q
+-> certificados: https://samdeoliveira.tech/certificados/
 <br><br>
 <div>
  <a href="https://www.youtube.com/@samde0liveira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
