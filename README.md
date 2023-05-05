@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/yNHyJVL/zyro-image.jpg" width="250" align="right">
+<img src="https://media.discordapp.net/attachments/1101328949314863144/1104121097768673290/IMG-20230505-WA0001.jpg" width="210" height="310" align="right">
 <h4> 𝘖𝘪! 𝘌𝘶 𝘮𝘦 𝘤𝘩𝘢𝘮𝘰 𝘚𝘢𝘮 𝘦 𝘵𝘦𝘯𝘩𝘰 21 𝘢𝘯𝘰𝘴</h4>
 𝑺𝒐𝒖 𝑫𝒆𝒔𝒊𝒏𝒆𝒓, 𝑫𝒆𝒗 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅, 𝑪𝒓𝒊𝒂𝒅𝒐𝒓 𝒅𝒆 𝒄𝒐𝒏𝒕𝒆𝒖́𝒅𝒐 <br>
 𝑬𝘀𝘁𝘂𝗱𝗮𝗻𝘁𝗲 𝗱𝗲 𝘀𝗲𝗴𝘂𝗿𝗮𝗻𝗰̧𝗮 𝗱𝗮 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼 e 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 𝙰𝚞𝚝ô𝚗𝚘𝚖𝚘 👻 <br><br>
