@@ -4,8 +4,7 @@
 𝑬𝘀𝘁𝘂𝗱𝗮𝗻𝘁𝗲 𝗱𝗲 𝘀𝗲𝗴𝘂𝗿𝗮𝗻𝗰̧𝗮 𝗱𝗮 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼 e 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 𝙰𝚞𝚝ô𝚗𝚘𝚖𝚘 👻 <br><br>
 𝗔𝗷𝘂𝗱𝗼 𝗲𝗺𝗽𝗿𝗲𝘀𝗮𝘀 𝗲 𝗼𝗿𝗴𝗮̃𝗼𝘀 𝗴𝗼𝘃𝗲𝗿𝗻𝗮𝗺𝗲𝗻𝘁𝗮𝗶𝘀 a 𝗰𝗼𝗿𝗿𝗶𝗴𝗶𝗿𝗲𝗺 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲𝘀 <br>
 Eɴᴛᴜsɪᴀsᴛᴀ ᴅᴇ Lɪɴᴜx ᴇ ʙᴏᴍ ᴄᴏᴍ Jᴀᴠᴀsᴄʀɪᴘᴛ , CSS , HTML ᴇ Pʏᴛʜᴏɴ... ✨ <br><br>
--> email de contato: samdeoliveirademelo@gmail.com <br>
--> certificados: https://samdeoliveira.tech/certificados/
+-> email de contato: samdeoliveirademelo@protonmail.com <br>
 <br><br>
 <div>
  <a href="https://www.youtube.com/@samde0liveira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
